@@ -17,7 +17,7 @@ BOT_NAME: process.env.BOT_NAME || "✦KAKASHI-MD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🗡️,🌀,🍀,❤️‍❇️,❤️‍🩹,🥂,🩷,♾,🍷,🦊,💙,🩵,☯️,🤎,🏂,🩶,🤍",
 // chose custom react emojis by yourself 
 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
@@ -38,7 +38,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
 MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/bddvfr.jpg",
 // dont change menu image
 
-LIVE_MSG: process.env.LIVE_MSG || "> ✦KAKASHI-X-MD✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦KAKASHI-X-MD✦ BLACK-HAWK TEAM ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Andyech/KAKASHI-MD",
+LIVE_MSG: process.env.LIVE_MSG || "> ✦KAKASHI-X-MD✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦KAKASHI-X-MD✦ BLACK-HAWK TEAM ᴛᴇᴄʜ ɪɴᴄ🏌️‍♂️\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Andyech/KAKASHI-MD",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -56,7 +56,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by KAKASHI-X-MD xᴅ 🌀🗡️*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👨‍💻 Status Seen by KAKASHI-X-MD xᴅ 🌀🗡️*",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
